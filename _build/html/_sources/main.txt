@@ -1,0 +1,16 @@
+Integration
+-----------
+
+To start working with Mobile Social Share_ plugin you need to follow next steps:
+
+
+1. Import it to your project
+
+2. Add script ```SocialShareController``` to some gameobject in scene
+
+3. 
+
+
+
+
+.. _download: http://u3d.as/s6D
