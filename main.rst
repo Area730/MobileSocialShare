@@ -19,8 +19,3 @@ To start working with Mobile Social Share plugin you need to follow next steps:
     :align: center
 
 5. That is it, you are ready to share you game via social networks
-
-
-
-
-.. _download: http://u3d.as/s6D
